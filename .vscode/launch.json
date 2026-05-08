@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GenresGUI",
+            "request": "launch",
+            "mainClass": "GenresGUI",
+            "vmArgs": "--module-path \"C:/Users/Enoch/Desktop/javafx/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "MoviesGUI",
+            "request": "launch",
+            "mainClass": "MoviesGUI",
+            "vmArgs": "--module-path \"C:/Users/Enoch/Desktop/javafx/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "CustomersGUI",
+            "request": "launch",
+            "mainClass": "CustomersGUI",
+            "vmArgs": "--module-path \"C:/Users/Enoch/Desktop/javafx/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "RentalsGUI",
+            "request": "launch",
+            "mainClass": "RentalsGUI",
+            "vmArgs": "--module-path \"C:/Users/Enoch/Desktop/javafx/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
